@@ -6,11 +6,11 @@ O projeto Carteira de Investimentos consiste em um sistema desenvolvido em lingu
 
 O sistema funciona por meio de um menu interativo no terminal, oferecendo funcionalidades simples para facilitar o controle dos investimentos cadastrados.
 
-# Objetivo
+# Público-alvo
 
 O objetivo do projeto é desenvolver uma aplicação que permita gerenciar uma carteira de investimentos, proporcionando ao usuário uma maneira prática de registrar ativos financeiros, consultar seus valores e acompanhar sua valorização ou desvalorização.
 
-# Funcionalidades
+# Funcionalidades do sistema 
 1. Cadastrar Ativo
 
 Permite cadastrar um novo ativo financeiro. Ao selecionar a opção 1 no menu, o sistema solicita as seguintes informações:
@@ -52,7 +52,14 @@ Linguagem de programação: C
 
 Ambiente de desenvolvimento (IDE): Dev-C++ 5.11
 
-# Como Executar o Projeto
+# Requisitos mínimos para execução
+
+° Computador ou notebook
+° Dev-C++ ou vscode instalado
+° Conhecimentos básicos de utilização do computador e do terminal
+° Suporte à execução de arquivos executáveis (.exe)
+
+# Instruções para execução
 
 Para executar o sistema, siga as instruções abaixo:
 
@@ -84,7 +91,7 @@ Opção	Funcionalidade
 
 Basta selecionar a opção desejada e seguir as instruções apresentadas pelo sistema.
 
-# Autores
+# Desenvolvedores
 
 Desenvolvedores: [Gustavo de São Justo Bermudes]
 
