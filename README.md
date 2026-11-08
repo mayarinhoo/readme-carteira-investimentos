@@ -1,16 +1,16 @@
 # readme-carteira-investimentos
 ## Carteira de Investimentos
 
+# Descrição do projeto
 
 O projeto Carteira de Investimentos consiste em um sistema desenvolvido em linguagem C que permite ao usuário cadastrar e gerenciar ativos financeiros, acompanhar o valor total de sua carteira e consultar a rentabilidade dos investimentos.
 
 O sistema funciona por meio de um menu interativo no terminal, oferecendo funcionalidades simples para facilitar o controle dos investimentos cadastrados.
 
-# Objetivo
+# Público-alvo
+O sistema é destinado a pessoas que desejam organizar e acompanhar seus investimentos financeiros de maneira simples e prática, especialmente iniciantes que buscam controlar seus ativos. O objetivo do projeto é desenvolver uma aplicação que permita gerenciar uma carteira de investimentos, proporcionando ao usuário uma maneira prática de registrar ativos financeiros, consultar seus valores e acompanhar sua valorização ou desvalorização.
 
-O objetivo do projeto é desenvolver uma aplicação que permita gerenciar uma carteira de investimentos, proporcionando ao usuário uma maneira prática de registrar ativos financeiros, consultar seus valores e acompanhar sua valorização ou desvalorização.
-
-# Funcionalidades
+# Funcionalidades do sistema
 1. Cadastrar Ativo
 
 Permite cadastrar um novo ativo financeiro. Ao selecionar a opção 1 no menu, o sistema solicita as seguintes informações:
@@ -52,7 +52,15 @@ Linguagem de programação: C
 
 Ambiente de desenvolvimento (IDE): Dev-C++ 5.11
 
-# Como Executar o Projeto
+# Requisitos mínimos para execução
+ 
+ ° Computador ou notebook
+ ° Ambiente de desenvolvimento (vscode,dev c++, etc)
+ ° Suporte à execução de arquivos executáveis (.exe)
+ ° Conhecimentos básicos de utilização do computador e do terminal
+
+
+# Instruções para execução
 
 Para executar o sistema, siga as instruções abaixo:
 
@@ -84,7 +92,7 @@ Opção	Funcionalidade
 
 Basta selecionar a opção desejada e seguir as instruções apresentadas pelo sistema.
 
-# Autores
+# Desenvolvedores
 
 Desenvolvedores: [Gustavo de São Justo Bermudes]
 
